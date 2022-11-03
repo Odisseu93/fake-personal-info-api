@@ -1,0 +1,24 @@
+{
+  "name": "fake-personal-info-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Odisseu93/fake-personal-info-api.git"
+  },
+  "keywords": [],
+  "author": "Ulisses Silvério",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Odisseu93/fake-personal-info-api/issues"
+  },
+  "homepage": "https://github.com/Odisseu93/fake-personal-info-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
